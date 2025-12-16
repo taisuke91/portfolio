@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Taisuke Ito's Portfolio Website",
+  "scripts": {
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "portfolio",
+    "static-site"
+  ],
+  "author": "Taisuke Ito",
+  "license": "MIT"
+}
+
